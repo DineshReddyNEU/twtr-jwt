@@ -166,7 +166,7 @@ const Compose = () => {
               required
               fullWidth
               id="username"
-              label={'User Name testing'}
+              label={'User Name Demo Assignment'}
               name="username"
               autoComplete="username"
               autoFocus
@@ -179,7 +179,7 @@ const Compose = () => {
               required
               fullWidth
               id="tweet"
-              label={'Tweet testing'}
+              label={'Tweet Demo Assignment'}
               name="tweet"
               autoComplete="tweet"
               autoFocus
