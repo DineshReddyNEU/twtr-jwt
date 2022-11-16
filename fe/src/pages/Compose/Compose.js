@@ -155,7 +155,7 @@ const Compose = () => {
       <Paper className={classes.paper} elevation={6}>
         <div className={classes.container}>
           <Typography component="h1" variant="h5">
-            {'Compose Tweet'}
+            {'Compose Tweet Test'}
           </Typography>
           <form className={classes.form} onSubmit={handleSubmit} noValidate>
             <TextField
